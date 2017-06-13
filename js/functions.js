@@ -7,14 +7,5 @@ function ativaPage(){
 }
 
 
-function ativaPageAuto(page){
-
-	$('.page').removeClass('page-active');
-	$(page).addClass('page-active');
-
-}
-
-
-
 
 ativaPage();
