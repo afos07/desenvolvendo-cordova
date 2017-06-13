@@ -1,0 +1,23 @@
+.page{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.page-active{
+    display: block;
+}
+.login-header{
+    padding: 35% 0px;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+}
+.btn-block{
+    width: 100%;
+}
+.titleApp{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: 'Questrial', sans-serif;
+}
